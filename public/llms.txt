@@ -1,43 +1,52 @@
-# Business — Generative Engine Optimization Map
+# יסכה עיסוי רפואי — Generative Engine Optimization Map
+
+> A בריאות ורווחה business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://yiska-medical-massage.zappy5.app
 
 ### About
-https://example.com/about-me
+https://yiska-medical-massage.zappy5.app/about-me
 
 ### Services
-https://example.com/why-worth-coming
+https://yiska-medical-massage.zappy5.app/why-worth-coming
 
 ### Contact
-https://example.com/contact
+https://yiska-medical-massage.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yiska-medical-massage.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yiska-medical-massage.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yiska-medical-massage.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About יסכה עיסוי רפואי
+יסכה עיסוי רפואי is a business in the בריאות ורווחה industry.
+
+## Target Audience
+
+## Industry
+בריאות ורווחה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://yiska-medical-massage.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yiska-medical-massage.zappy5.app/robots.txt
