@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# יסכה עיסוי רפואי — Generative Engine Optimization Map
+
+> A בריאות ורווחה business.
 
 ---
 
@@ -34,7 +36,14 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About יסכה עיסוי רפואי
+יסכה עיסוי רפואי is a business in the בריאות ורווחה industry.
+
+## Target Audience
+
+## Industry
+בריאות ורווחה
+
 ---
 
 # Additional Resources
